@@ -82,3 +82,6 @@
 [submodule "GateApiModules"]
 	path = GateApiModules
 	url = https://github.com/korpling/pepperModules-GateApiModules.git
+[submodule "CoraXMLModules"]
+	path = CoraXMLModules
+	url = https://github.com/korpling/CoraXMLModules.git
