@@ -1,0 +1,84 @@
+[submodule "ANNISModules"]
+	path = ANNISModules
+	url = https://github.com/korpling/pepperModules-ANNISModules.git
+[submodule "SaltInfoModules"]
+	path = SaltInfoModules
+	url = https://github.com/korpling/pepperModules-SaltInfoModules.git
+[submodule "TigerModules"]
+	path = TigerModules
+	url = https://github.com/korpling/pepperModules-TigerModules.git
+[submodule "EXMARaLDAModules"]
+	path = EXMARaLDAModules
+	url = https://github.com/korpling/pepperModules-EXMARaLDAModules.git
+[submodule "MergingModule"]
+	path = MergingModule
+	url = https://github.com/korpling/pepperModules-MergingModule.git
+[submodule "MMAX2Modules"]
+	path = MMAX2Modules
+	url = https://github.com/korpling/pepperModules-MMAX2Modules.git
+[submodule "TCFModules"]
+	path = TCFModules
+	url = https://github.com/korpling/pepperModules-TCFModules.git
+[submodule "PTBModules"]
+	path = PTBModules
+	url = https://github.com/korpling/pepperModules-PTBModules.git
+[submodule "UAMModules"]
+	path = UAMModules
+	url = https://github.com/korpling/pepperModules-UAMModules.git
+[submodule "TueBaDZModules"]
+	path = TueBaDZModules
+	url = https://github.com/korpling/pepperModules-TueBaDZModules.git
+[submodule "TreetaggerModules"]
+	path = TreetaggerModules
+	url = https://github.com/korpling/pepperModules-TreetaggerModules.git
+[submodule "ToolboxModules"]
+	path = ToolboxModules
+	url = https://github.com/korpling/pepperModules-ToolboxModules.git
+[submodule "TEIModules"]
+	path = TEIModules
+	url = https://github.com/korpling/pepperModules-TEIModules.git
+[submodule "SpreadsheetModules"]
+	path = SpreadsheetModules
+	url = https://github.com/korpling/pepperModules-SpreadsheetModules.git
+[submodule "RSTModules"]
+	path = RSTModules
+	url = https://github.com/korpling/pepperModules-RSTModules.git
+[submodule "RidgesModules"]
+	path = RidgesModules
+	url = https://github.com/korpling/pepperModules-RidgesModules.git
+[submodule "PerseusModules"]
+	path = PerseusModules
+	url = https://github.com/korpling/pepperModules-PerseusModules.git
+[submodule "nlpModules"]
+	path = nlpModules
+	url = https://github.com/korpling/pepperModules-nlpModules.git
+[submodule "ModuleBox"]
+	path = ModuleBox
+	url = https://github.com/korpling/pepperModules-ModuleBox.git
+[submodule "GraphAnnoModules"]
+	path = GraphAnnoModules
+	url = https://github.com/korpling/pepperModules-GraphAnnoModules.git
+[submodule "GrAFModules"]
+	path = GrAFModules
+	url = https://github.com/korpling/pepperModules-GrAFModules.git
+[submodule "GenericXMLModules"]
+	path = GenericXMLModules
+	url = https://github.com/korpling/pepperModules-GenericXMLModules.git
+[submodule "GATEModules"]
+	path = GATEModules
+	url = https://github.com/korpling/pepperModules-GATEModules.git
+[submodule "CoNLLModules"]
+	path = CoNLLModules
+	url = https://github.com/korpling/pepperModules-CoNLLModules.git
+[submodule "FALKOModules"]
+	path = FALKOModules
+	url = https://github.com/korpling/pepperModules-FALKOModules.git
+[submodule "ElanModules"]
+	path = ElanModules
+	url = https://github.com/korpling/pepperModules-ElanModules.git
+[submodule "PAULAModules"]
+	path = PAULAModules
+	url = https://github.com/korpling/pepperModules-PAULAModules.git
+[submodule "GateApiModules"]
+	path = GateApiModules
+	url = https://github.com/korpling/pepperModules-GateApiModules.git
