@@ -43,9 +43,6 @@
 [submodule "RSTModules"]
 	path = RSTModules
 	url = https://github.com/korpling/pepperModules-RSTModules.git
-[submodule "RidgesModules"]
-	path = RidgesModules
-	url = https://github.com/korpling/pepperModules-RidgesModules.git
 [submodule "PerseusModules"]
 	path = PerseusModules
 	url = https://github.com/korpling/pepperModules-PerseusModules.git
