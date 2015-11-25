@@ -79,3 +79,6 @@
 [submodule "CoraXMLModules"]
 	path = CoraXMLModules
 	url = https://github.com/korpling/CoraXMLModules.git
+[submodule "exmaralda-emf-api"]
+	path = exmaralda-emf-api
+	url = git@github.com:korpling/exmaralda-emf-api.git
