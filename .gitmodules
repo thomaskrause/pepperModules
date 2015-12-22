@@ -37,9 +37,6 @@
 [submodule "TEIModules"]
 	path = TEIModules
 	url = https://github.com/korpling/pepperModules-TEIModules.git
-[submodule "SpreadsheetModules"]
-	path = SpreadsheetModules
-	url = https://github.com/korpling/pepperModules-SpreadsheetModules.git
 [submodule "RSTModules"]
 	path = RSTModules
 	url = https://github.com/korpling/pepperModules-RSTModules.git
