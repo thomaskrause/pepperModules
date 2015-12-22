@@ -76,9 +76,6 @@
 [submodule "PAULAModules"]
 	path = PAULAModules
 	url = https://github.com/korpling/pepperModules-PAULAModules.git
-[submodule "GateApiModules"]
-	path = GateApiModules
-	url = https://github.com/korpling/pepperModules-GateApiModules.git
 [submodule "CoraXMLModules"]
 	path = CoraXMLModules
 	url = ../../korpling/CoraXMLModules.git
