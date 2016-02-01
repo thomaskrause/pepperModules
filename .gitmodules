@@ -72,4 +72,4 @@
 	url = git@github.com:korpling/pepperModules-PAULAModules.git
 [submodule "CoraXMLModules"]
 	path = CoraXMLModules
-	url = ../../korpling/CoraXMLModules.git
+	url = git@github.com:korpling/CoraXMLModules.git
