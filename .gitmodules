@@ -82,3 +82,6 @@
 [submodule "exmaralda-emf-api"]
 	path = exmaralda-emf-api
 	url = git@github.com:korpling/exmaralda-emf-api.git
+[submodule "toolbox-text-importer"]
+	path = toolbox-text-importer
+	url = https://scm.cms.hu-berlin.de/gitlab/druskats/toolbox-text-importer.git
