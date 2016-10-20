@@ -85,3 +85,6 @@
 [submodule "toolbox-text-importer"]
 	path = toolbox-text-importer
 	url = https://scm.cms.hu-berlin.de/gitlab/druskats/toolbox-text-importer.git
+[submodule "WebannoTSVModules"]
+	path = WebannoTSVModules
+	url = ../../korpling/pepperModules-WebannoTSVModules.git
