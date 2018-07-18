@@ -88,3 +88,6 @@
 [submodule "WebannoTSVModules"]
 	path = WebannoTSVModules
 	url = ../../korpling/pepperModules-WebannoTSVModules.git
+[submodule "treetagger-emf-api"]
+	path = treetagger-emf-api
+	url = https://github.com/korpling/treetagger-emf-api.git
