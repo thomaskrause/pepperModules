@@ -88,3 +88,9 @@
 [submodule "treetagger-emf-api"]
 	path = treetagger-emf-api
 	url = https://github.com/korpling/treetagger-emf-api.git
+[submodule "TextGridModules"]
+	path = TextGridModules
+	url = https://github.com/korpling/pepperModules-TextGridModules.git
+[submodule "RUEGModules"]
+	path = RUEGModules
+	url = https://github.com/korpling/pepperModules-RUEGModules.git
