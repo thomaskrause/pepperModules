@@ -94,3 +94,6 @@
 [submodule "RUEGModules"]
 	path = RUEGModules
 	url = https://github.com/korpling/pepperModules-RUEGModules.git
+[submodule "toolbox-text-importer"]
+	path = toolbox-text-importer
+	url = https://scm.cms.hu-berlin.de/gitlab/druskats/toolbox-text-importer.git
