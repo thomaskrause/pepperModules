@@ -97,3 +97,6 @@
 [submodule "toolbox-text-importer"]
 	path = toolbox-text-importer
 	url = https://scm.cms.hu-berlin.de/gitlab/druskats/toolbox-text-importer.git
+[submodule "MoverModule"]
+	path = MoverModule
+	url = git@github.com:korpling/pepperModules-MoverModule.git
