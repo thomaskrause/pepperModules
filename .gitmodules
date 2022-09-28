@@ -103,3 +103,6 @@
 [submodule "RSDModules"]
 	path = RSDModules
 	url = git@github.com:korpling/pepperModules-RSDModules.git
+[submodule "GraphmlModules"]
+	path = GraphmlModules
+	url = ../../korpling/peppperModules-GraphmlModules.git
