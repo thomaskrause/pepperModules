@@ -100,3 +100,6 @@
 [submodule "MoverModule"]
 	path = MoverModule
 	url = git@github.com:korpling/pepperModules-MoverModule.git
+[submodule "RSDModules"]
+	path = RSDModules
+	url = git@github.com:korpling/pepperModules-RSDModules.git
